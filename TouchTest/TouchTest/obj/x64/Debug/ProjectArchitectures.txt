@@ -1,0 +1,1 @@
+D:\Document\Project\Windows\TouchTestWin10\TouchTest\TouchTest\TouchTest.csproj;x64
